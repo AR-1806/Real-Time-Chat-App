@@ -1,0 +1,30 @@
+body {
+    background: #F3904F;  /* fallback for old browsers */
+	background: -webkit-linear-gradient(to top, #3B4371, #F3904F);  /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to top, #3B4371, #F3904F); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+#chatList p{
+    border:1px solid green;
+    border-radius: 10px;;
+    padding:5px 20px 5px 20px;
+}
+.alignRight{
+    background:#07203b;
+    color: aliceblue;
+    text-align:right;
+    margin-left: 50px;
+}
+
+.alignLeft{
+    background: #68b16c;
+    margin-right:50px;
+}
+
+p{
+    margin-bottom: 0px;
+}
+
+
+
